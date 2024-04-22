@@ -1,0 +1,67 @@
+/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-lp2sjc723i] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-lp2sjc723i] {
+  color: #0077cc;
+}
+
+.btn-primary[b-lp2sjc723i] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-lp2sjc723i], .nav-pills .show > .nav-link[b-lp2sjc723i] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-lp2sjc723i] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-lp2sjc723i] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-lp2sjc723i] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-lp2sjc723i] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-lp2sjc723i] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
+
+.header_search[b-lp2sjc723i] {
+    background-color: white;
+    height: 40px;
+    flex: 1;
+    border-radius: 2px;
+    display: flex;
+    justify-content: center;
+}
+
+.search_bar[b-lp2sjc723i] {
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.search_btn[b-lp2sjc723i] {
+    border: none;
+}
